@@ -1,6 +1,6 @@
 # Silverblue Asahi Image Builder
 
-I would recommend runnning:
+I would recommend running:
 
 ```
 dnf copr enable @osbuild/osbuild
